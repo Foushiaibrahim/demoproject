@@ -1,0 +1,4 @@
+rebase command
+git rebase branchname
+git rebase --continue ---> if conflict occurs
+git rebase --abort ---> cancel
